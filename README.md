@@ -1,7 +1,5 @@
 # ChelsyTangPortfolio
 
-![Gif Image of Project]("")
-
 ## Overview
 
 This repository was created for [Chelsy's Portfolio](https://chelsytang.com)
